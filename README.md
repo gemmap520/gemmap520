@@ -1,16 +1,22 @@
-### Hi there 👋
+## Stacks 🐕
 
-<!--
-**gemmap520/gemmap520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Environment
+![Visual Studio Code](https://path_to_your_image/vscode.png)
+![Git](https://path_to_your_image/git.png)
+![GitHub](https://path_to_your_image/github.png)
 
-Here are some ideas to get you started:
+### Config
+![npm](https://path_to_your_image/npm.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Development
+![JavaScript](https://path_to_your_image/javascript.png)
+![React](https://path_to_your_image/react.png)
+![Strapi](https://path_to_your_image/strapi.png)
+![Next.js](https://path_to_your_image/nextjs.png)
+![Bootstrap](https://path_to_your_image/bootstrap.png)
+![Material UI](https://path_to_your_image/materialui.png)
+
+### Communication
+![Slack](https://path_to_your_image/slack.png)
+![Notion](https://path_to_your_image/notion.png)
+![Google Meet](https://path_to_your_image/googlemeet.png)
