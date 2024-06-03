@@ -24,15 +24,12 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
           <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-
-        
           <br/></div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:gemmap520@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gemmap520@gmail.com"> </a>
     <div align= "center"> <a href=mailto:https://www.linkedin.com/in/gemmap520/> <img src="https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=Linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gemmap520/"> </a>
-
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
