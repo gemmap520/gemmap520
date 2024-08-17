@@ -3,7 +3,7 @@
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; text-align: left;">😛 About Me</h2><br>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-      Hi, I’m Gemma, currently in my 2A term studying Mathematics at the University of Waterloo. My ultimate goal is to use data to create a better society.<br><br>
+      Hi, I’m Gemma, finished in my 2A term studying Mathematics at the University of Waterloo, and working in the Brookfield Asset Management as a data analyst. My ultimate goal is to use data to create a better society.<br><br>
       Passionate about learning, I constantly expand my skill set. My volunteer work in the medical field underscores my commitment to applying data science for social good. I am always eager to take on new challenges and leverage my skills to make a meaningful impact.
     </div>
   </div>
